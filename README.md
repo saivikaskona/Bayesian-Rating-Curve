@@ -3,7 +3,7 @@ This repository contains the Bayesian rating model codes used to analyze rating 
 The codes are developed based on the fundamentals provided in the developers of the BaRatin Framework (Le Coz et al., 2014).
 
 ## Prerequisites
-To run these models, you must have R installed along with the 'rstan' package. 
+To run these models, you must have R installed along with the 'rstan' package and the associated dependencies. 
 
 ### Installing rstan
 The `rstan` package is the R interface to Stan. You can install it by running the following command in your R console:
