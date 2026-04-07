@@ -6,7 +6,7 @@ The codes are developed based on the fundamentals provided by the developers of 
 To run these models, you must have R installed along with the 'rstan' package and the associated dependencies. 
 
 ### Installing rstan
-The `rstan` package is the R interface to Stan. You can install it by running the following command in your R console:
+The `rstan` package is the R interface to Stan. For comprehensive installation instructions and platform-specific troubleshooting, please refer to the official [RStan Getting Started guide](https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started).
 
 ```r
 install.packages("rstan", repos = "https://cloud.r-project.org/", dependencies = TRUE)
